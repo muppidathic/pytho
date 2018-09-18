@@ -4,5 +4,5 @@ print("%s is a vowel"%1)
 elif 1=='y':
   print("sometime letter y stand for vowel,sometimes stand for constant.")  
 else
-print("%s is a constant."%1)
+  print("%s is a constant."%1)
 
